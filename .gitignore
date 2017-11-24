@@ -1,0 +1,6 @@
+.gitignore
+.idea/
+*/.idea
+*/project
+*/target
+*/scalastyle
