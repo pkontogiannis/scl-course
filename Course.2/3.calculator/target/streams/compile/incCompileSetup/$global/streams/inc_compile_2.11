@@ -1,0 +1,435 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+42 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$2.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Divide$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Divide.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Expr.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Literal$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Literal.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Minus$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Minus.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Plus$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Plus.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Ref$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Ref.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Times$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Times.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeDelta$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/NoSignal$$anonfun$$lessinit$greater$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/NoSignal$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/NoSignal.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$2.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Var$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Var.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$$anonfun$colorForRemainingCharsCount$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$$anonfun$tweetRemainingCharsCount$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/common/package$.class
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/common/package.class
+binary dependencies:
+10 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> /Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> /Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> /Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1$$anonfun$apply$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$2
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Divide
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Divide$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Expr
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Literal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Literal$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Minus
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Minus$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Plus
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Plus$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Ref
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Ref$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Times
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator.Times$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeDelta$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal$$anonfun$$lessinit$greater$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$apply$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$computeValue$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$computeValue$2
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Var
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator.Var$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$tweetRemainingCharsCount$1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> common.package
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> common.package$
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+used names:
+201 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> &&
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> *
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> +
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> -
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> ->
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> /
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> ==
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> AbstractFunction1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> AbstractFunction2
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Calculator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Divide
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Double
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Expr
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Literal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Map
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Minus
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> None
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Plus
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Product
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Ref
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> ScalaRunTime
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Serializable
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Signal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Statics
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> String
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> Times
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> _1
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> _2
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> _hashCode
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> _toString
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> a
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> apply
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> asInstanceOf
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> b
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> calculator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> doubleHash
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> eq
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> eval
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> exp
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> expr
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> exprSignal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> finalizeHash
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> fold
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> foreach
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> get
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> getReferenceExpr
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> isInstanceOf
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> mix
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> name
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> namedExpressions
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> ne
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> references
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> res
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> runtime
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> str
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> toString
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> typedProductIterator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> v
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> ||
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> *
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> +
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> -
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> /
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> ==
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> >
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> Double
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> Polynomial
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> Set
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> Signal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> a
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> apply
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> b
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> c
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> calculator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> computeDelta
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> math
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> package
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> result
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> sqrt
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> unary_-
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> +
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> -
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> ::
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> <byname>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> ???
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> DynamicVariable
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Function0
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> List
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Nil
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> NoSignal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Nothing
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Set
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Signal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> T
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Unit
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> Var
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> _root_
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> apply
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> assert
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> calculator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> caller
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> computeValue
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> contains
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> expr
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> foreach
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> immutable
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> myExpr
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> myExpr_=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> myValue
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> myValue_=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> newValue
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> obs
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> observed
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> observed_=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> observers
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> observers_=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> package
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> sig
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> unary_!
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> update
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> util
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> value
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> withValue
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> &&
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> -
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> <=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> >=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> Character
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> Int
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> Signal
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> String
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> TweetLength
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> apply
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> augmentString
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> calculator
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> count
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> fallbackStringCanBuildFrom
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> init
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> isEmpty
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> isSurrogatePair
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> java
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> lang
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> length
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> remainingCharsCount
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> tail
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> text
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> tupled
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> tweetLength
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> tweetText
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> wrapString
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> zip
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> ::
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> <repeated>
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> Any
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> File
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> FileInputStream
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> InputStream
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> List
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> None
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> Nothing
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> Option
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> String
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> _root_
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> child
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> children
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> classesDir
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> common
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> exists
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> file
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> foldLeft
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> getClass
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> getParentFile
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> getResource
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> io
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> java
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> package
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> projectDir
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> resourceFile
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> resourcePath
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> scala
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> subFile
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> toURI
+product stamps:
+42 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$1.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$1.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$2.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Calculator.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Divide$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Divide.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Expr.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Literal$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Literal.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Minus$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Minus.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/NoSignal$.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/NoSignal.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Plus$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Plus.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeDelta$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial$.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Polynomial.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Ref$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Ref.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$2.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal$.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Signal.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Times$.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Times.class -> lastModified(1516050513000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$$anonfun$colorForRemainingCharsCount$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$$anonfun$tweetRemainingCharsCount$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength$.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/TweetLength.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Var$.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/calculator/Var.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/common/package$.class -> lastModified(1515958471000)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/target/scala-2.11/classes/common/package.class -> lastModified(1515958471000)
+source stamps:
+5 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> hash(3eac7507c7a8044d4b1fae7582e25b7d0b640561)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> hash(60714917dfc2aee5e7488691c30dbeb5c9d3e8dd)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> hash(f5a6296731e63462e7bc526b412634843c732002)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> hash(96f28e4d4c22adfbab1f51c60051bbb794ce7b79)
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1505382647000)
+/Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/zeus/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+5 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDXmUDVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLZ2ElR0AA1jb21wdXRlVmFsdWVzc3EAfgAMOU4zbHQABm5vdGlmeXNxAH4ADBtJ0QJ0AARuYW1lc3EAfgAMtgS3dnQABHdhaXRzcQB+AAyknsqEdAAOY29weSRkZWZhdWx0JDJzcQB+AAyo0Gq8dAANJGFzSW5zdGFuY2VPZnNxAH4ADHA4H8N0AAxwcm9kdWN0QXJpdHlzcQB+AAzas7drdAAGZXF1YWxzc3EAfgAMvUyfn3QADGFzSW5zdGFuY2VPZnNxAH4ADBfuOBd0AARFeHByc3EAfgAM7UPdenQABkRpdmlkZXNxAH4ADEVs9BN0AAxzeW5jaHJvbml6ZWRzcQB+AAzT/0BzdAABYXNxAH4ADJnIAVp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJvJ72XQAB0xpdGVyYWxzcQB+AAzHPbQ7dAAIY2FuRXF1YWxzcQB+AAzZusIGdAANcHJvZHVjdFByZWZpeHNxAH4ADIWuK7B0AAlub3RpZnlBbGxzcQB+AAxOfpeddAAEUGx1c3NxAH4ADOeNDyp0AAxpc0luc3RhbmNlT2ZzcQB+AAzWsyLfdAAEZXZhbHNxAH4ADHkIfsN0AAVNaW51c3NxAH4ADCWCcJB0AAF2c3EAfgAM+VF4ynQABjxpbml0PnNxAH4ADPkCh8Z0AAFic3EAfgAMERdYK3QAAj09c3EAfgAMQgLe23QABWNsb25lc3EAfgAM3Xx/2XQAEGdldFJlZmVyZW5jZUV4cHJzcQB+AAxINSqldAAEY29weXNxAH4ADH7jdjl0AAh0b1N0cmluZ3NxAH4ADGH+8UV0AAIhPXNxAH4ADPI4LSt0AAVUaW1lc3NxAH4ADCSmfld0AAhnZXRDbGFzc3NxAH4ADNm8C9R0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADCFQS+N0AAJuZXNxAH4ADKRoYRF0AAJlcXNxAH4ADA7/EJ10AApDYWxjdWxhdG9yc3EAfgAMev96ZHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADN59SpJ0AAIjI3NxAH4ADH33r1l0AAhmaW5hbGl6ZXNxAH4ADOUfyLN0AANSZWZzcQB+AAxzV2UOdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxwrCDddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAIc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAJdAAPY2FsY3VsYXRvci5FeHBydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCGeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCFAHBzcQB+AIpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCOc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKtzcQB+AJ50AANBbnlzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAFc2NhbGFxAH4AsXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0ABJjYWxjdWxhdG9yLkxpdGVyYWx1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAHc3EAfgCedAAMU2VyaWFsaXphYmxlc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgC4cQB+ALFzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnQAAmlvcQB+ALFzcQB+AJ50AAdQcm9kdWN0cQB+AM9zcQB+AJ50AAZFcXVhbHNxAH4Az3NxAH4AnnQABEV4cHJzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAKY2FsY3VsYXRvcnEAfgCxc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNxAH4Az3NxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0AA5jYWxjdWxhdG9yLlJlZnVxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAAdzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4AuHEAfgCxc3EAfgCecQB+AM5zcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKp0AAJpb3EAfgCxc3EAfgCecQB+ANtxAH4BAXNxAH4AnnQABkVxdWFsc3EAfgEBc3EAfgCecQB+AN9zcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAKY2FsY3VsYXRvcnEAfgCxc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNxAH4BAXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0AA9jYWxjdWxhdG9yLlBsdXN1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAHc3EAfgCecQB+AM5zcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+ALhxAH4AsXNxAH4AnnEAfgDOc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgCtc3EAfgCqdAACaW9xAH4AsXNxAH4AnnEAfgDbcQB+ATFzcQB+AJ50AAZFcXVhbHNxAH4BMXNxAH4AnnEAfgDfc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnQACmNhbGN1bGF0b3JxAH4AsXNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgCtc3EAfgCqcQB+AK9xAH4AsXNxAH4AnnEAfgCzcQB+ATFzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoEdAAQY2FsY3VsYXRvci5NaW51c3VxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAAdzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4AuHEAfgCxc3EAfgCecQB+AM5zcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKp0AAJpb3EAfgCxc3EAfgCecQB+ANtxAH4BYXNxAH4AnnQABkVxdWFsc3EAfgFhc3EAfgCecQB+AN9zcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqdAAKY2FsY3VsYXRvcnEAfgCxc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNxAH4BYXNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0ABBjYWxjdWxhdG9yLlRpbWVzdXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAAB3NxAH4AnnEAfgDOc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgC4cQB+ALFzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnQAAmlvcQB+ALFzcQB+AJ5xAH4A23EAfgGRc3EAfgCedAAGRXF1YWxzcQB+AZFzcQB+AJ5xAH4A33NxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AApjYWxjdWxhdG9ycQB+ALFzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnEAfgCvcQB+ALFzcQB+AJ5xAH4As3EAfgGRc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6BHQAEWNhbGN1bGF0b3IuRGl2aWRldXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAAB3NxAH4AnnEAfgDOc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgC4cQB+ALFzcQB+AJ5xAH4AznNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnQAAmlvcQB+ALFzcQB+AJ5xAH4A23EAfgHBc3EAfgCedAAGRXF1YWxzcQB+AcFzcQB+AJ5xAH4A33NxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKp0AApjYWxjdWxhdG9ycQB+ALFzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4ArXNxAH4AqnEAfgCvcQB+ALFzcQB+AJ5xAH4As3EAfgHBc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQAFWNhbGN1bGF0b3IuQ2FsY3VsYXRvcnVxAH4AfQAAAAB+cQB+AH90AAZNb2R1bGV1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAACc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+AK1zcQB+AKpxAH4Ar3EAfgCxc3EAfgCecQB+ALNzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+ALhxAH4AsXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNhbGN1bGF0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWD7pvuFdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ+rHUHx6gETUsfrnWC4lt9C2QFYQ==
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBmvcoLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPHdxwp0AAZub3RpZnlzcQB+AAyPiLIadAAEd2FpdHNxAH4ADCGybFd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaa+zrHQABmVxdWFsc3NxAH4ADDF0Wz10AAxhc0luc3RhbmNlT2ZzcQB+AAz77txydAAMc3luY2hyb25pemVkc3EAfgAMom9zHHQADSRpc0luc3RhbmNlT2ZzcQB+AAzUbSSrdAAMY29tcHV0ZURlbHRhc3EAfgAMYHA20nQACW5vdGlmeUFsbHNxAH4ADGb+T9R0ABBjb21wdXRlU29sdXRpb25zc3EAfgAMNe0kdHQADGlzSW5zdGFuY2VPZnNxAH4ADMkr9lF0AAI9PXNxAH4ADHUkybt0AAVjbG9uZXNxAH4ADMEU3Al0AApQb2x5bm9taWFsc3EAfgAMf6/yF3QACHRvU3RyaW5nc3EAfgAMpFYPsHQAAiE9c3EAfgAM8uOjJnQACGdldENsYXNzc3EAfgAMwUqwf3QAAm5lc3EAfgAMyFsmJXQAAmVxc3EAfgAM7unh2nQAAiMjc3EAfgAMClux1XQACGZpbmFsaXplc3EAfgAMQk02KXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFWNhbGN1bGF0b3IuUG9seW5vbWlhbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFsBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AZHNxAH4AWwF1cQB+AD4AAAAAcHNxAH4AWwF1cQB+AD4AAAAAcHNxAH4AWwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH1zcQB+AHB0AANBbnlzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8dAAFc2NhbGFxAH4Ag3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPYqeWJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL1VzZXJzL3pldXMvUHJvamVjdHMvc2NsLWNvdXJzZS9Db3Vyc2UuMi8zLmNhbGN1bGF0b3IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGBxSRffwq7l50iGkcMNvrXJ0+jd
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcrnOcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMgm1u10AAlvYnNlcnZlcnNzcQB+AAwNwvZRdAAGbm90aWZ5c3EAfgAMJ20wkXQABHdhaXRzcQB+AAzXche6dAANJGFzSW5zdGFuY2VPZnNxAH4ADEkSKEl0AANWYXJzcQB+AAzYZGUgdAAGU2lnbmFsc3EAfgAMPZGWgHQABmVxdWFsc3NxAH4ADH9wuWp0AAxhc0luc3RhbmNlT2ZzcQB+AAySrf1cdAAMc3luY2hyb25pemVkc3EAfgAMfl2vW3QADSRpc0luc3RhbmNlT2ZzcQB+AAzXskNIdAAJbm90aWZ5QWxsc3EAfgAMiJsE43QADGlzSW5zdGFuY2VPZnNxAH4ADOPjrVR0AAhOb1NpZ25hbHNxAH4ADL0t7AN0AAY8aW5pdD5zcQB+AAx0QuKGdAAFYXBwbHlzcQB+AAwq2znudAACPT1zcQB+AAzcW5MndAAFY2xvbmVzcQB+AAyuIZRFdAAIdG9TdHJpbmdzcQB+AAygwr9edAACIT1zcQB+AAzCJgP9dAAMY29tcHV0ZVZhbHVlc3EAfgAMJxW6pXQACGdldENsYXNzc3EAfgAMolWCoHQABnVwZGF0ZXNxAH4ADMH9GTF0AAJuZXNxAH4ADKU5W790AAZteUV4cHJzcQB+AAyp3IITdAAHbXlWYWx1ZXNxAH4ADO355410AAJlcXNxAH4ADHj8BPZ0AAIjI3NxAH4ADLuXmDB0AAhmaW5hbGl6ZXNxAH4ADJp7oCh0AAZjYWxsZXJzcQB+AAwBJX6TdAAIaGFzaENvZGVzcQB+AAwWZUQkdAAIb2JzZXJ2ZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY2FsY3VsYXRvci5TaWduYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AWkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AFdMAAp1cHBlckJvdW5kcQB+AGhMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AGAAAAAAdAATY2FsY3VsYXRvci5TaWduYWwuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXEAfgBlAAAAAHNxAH4AbXQAA0FueXEAfgB1fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AhXQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ajnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4Ab3NxAH4AjQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBtdAAGT2JqZWN0c3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3QABGphdmFzcQB+AHt0AARsYW5ncQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAOY2FsY3VsYXRvci5WYXJ1cQB+AGUAAAABc3EAfgBndXEAfgBgAAAAAHQAEGNhbGN1bGF0b3IuVmFyLlRxAH4AcXVxAH4AZQAAAABxAH4AgnEAfgCGcQB+AIl1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQFzcQB+AJdzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgCeAAAAA3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ab3NxAH4AbXQABlNpZ25hbHNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AApjYWxjdWxhdG9ycQB+AIB1cQB+AJ4AAAABc3IAFnhzYnRpLmFwaS5QYXJhbWV0ZXJSZWY/2OM5ACxzsAIAAUwAAmlkcQB+AA14cQB+AG90ABBjYWxjdWxhdG9yLlZhci5Uc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQADmNhbGN1bGF0b3IuVmFydXEAfgBlAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AiwAAAABzcQB+AI0AcHNxAH4AknEAfgCVc3EAfgCNAXNxAH4Al3NxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJ4AAAACc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAE2NhbGN1bGF0b3IuTm9TaWduYWx1cQB+AGUAAAAAcQB+AOB1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQFzcQB+AJdzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgCeAAAAA3NxAH4AwnNxAH4AbXQABlNpZ25hbHNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AApjYWxjdWxhdG9ycQB+AIB1cQB+AJ4AAAABc3EAfgBtcQB+AHJzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHNxAH4AbXEAfgChc3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3EAfgCmc3EAfgB7cQB+AKhxAH4AgHNxAH4AbXEAfgCDcQB+ARJwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ABFjYWxjdWxhdG9yLlNpZ25hbHVxAH4AZQAAAABxAH4A4HVxAH4AiwAAAABzcQB+AI0AcHNxAH4AknEAfgCVc3EAfgCNAXNxAH4Al3NxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJ4AAAACc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPYqeWJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL1VzZXJzL3pldXMvUHJvamVjdHMvc2NsLWNvdXJzZS9Db3Vyc2UuMi8zLmNhbGN1bGF0b3IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPWmKWcx5jRi57xSa0EmNIQ8cyAC
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSyflxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA8DT5F0AAZub3RpZnlzcQB+AAw36CLWdAAYdHdlZXRSZW1haW5pbmdDaGFyc0NvdW50c3EAfgAM1a3kwXQABHdhaXRzcQB+AAxdgwScdAANJGFzSW5zdGFuY2VPZnNxAH4ADFkburh0AAZlcXVhbHNzcQB+AAytaFxZdAAMYXNJbnN0YW5jZU9mc3EAfgAM3f93o3QAG2NvbG9yRm9yUmVtYWluaW5nQ2hhcnNDb3VudHNxAH4ADL4frMB0AAxzeW5jaHJvbml6ZWRzcQB+AAzJlZiHdAANJGlzSW5zdGFuY2VPZnNxAH4ADLHPOyp0AA5NYXhUd2VldExlbmd0aHNxAH4ADK6d1K50AAlub3RpZnlBbGxzcQB+AAweJIi7dAAMaXNJbnN0YW5jZU9mc3EAfgAMS2PSM3QAAj09c3EAfgAMUvHWCXQABWNsb25lc3EAfgAMUPlgdXQACHRvU3RyaW5nc3EAfgAMhoLzeHQAAiE9c3EAfgAME9cqH3QAC3R3ZWV0TGVuZ3Roc3EAfgAM/6oAanQACGdldENsYXNzc3EAfgAMc3grUXQAAm5lc3EAfgAMUmNoF3QAC1R3ZWV0TGVuZ3Roc3EAfgAM+ob0c3QAAmVxc3EAfgAMojAZlHQAAiMjc3EAfgAMvYw0D3QACGZpbmFsaXplc3EAfgAMX8mu+3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFmNhbGN1bGF0b3IuVHdlZXRMZW5ndGh1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBgeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACmNhbGN1bGF0b3JzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWD2KnlidXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSW8o5NTCKt+6sfUcYAUbu3lM57eQ==
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFg9ip5YnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE8vVXNlcnMvemV1cy9Qcm9qZWN0cy9zY2wtY291cnNlL0NvdXJzZS4yLzMuY2FsY3VsYXRvci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+external apis:
+0 items
+source infos:
+5 items
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Calculator.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Polynomial.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/Signal.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/calculator/TweetLength.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.2/3.calculator/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPYqeWJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPueyf51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPuiXL91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPuk+Xh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPum+4V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjIvMy5jYWxjdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

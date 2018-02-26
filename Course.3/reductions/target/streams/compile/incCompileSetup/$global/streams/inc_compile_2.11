@@ -1,0 +1,554 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+41 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class
+binary dependencies:
+11 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> /Users/zeus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+41 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> common.package
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> common.package$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler$$anon$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> common.package$TaskScheduler
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$$anonfun$lineOfSight$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Leaf$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Node$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSight$Tree
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$3
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$2
+used names:
+325 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> $anon
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> <byname>
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> A
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> B
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> C
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> D
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> DefaultTaskScheduler
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> DynamicVariable
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> ForkJoinPool
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> ForkJoinTask
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> RecursiveTask
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> T
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> TaskScheduler
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> Thread
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> Tuple2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> Tuple4
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> _root_
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> body
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> common
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> concurrent
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> currentThread
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> execute
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> fork
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> forkJoinPool
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> isInstanceOf
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> java
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> join
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> lang
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> left
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> package
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> parallel
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> right
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> scala
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> schedule
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> scheduler
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> t
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> ta
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> task
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> taskA
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> taskB
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> taskC
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> taskD
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> tb
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> tc
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> td
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> util
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> value
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> %
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> &&
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> *
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> +
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> -
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> ->
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> /
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> ==
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> >
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> AbstractFunction3
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Array
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> ClassTag
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Default
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Float
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> IndexedSeq
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Int
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Key
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Leaf
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSight
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> LineOfSightRunner
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Math
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Node
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> None
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Product
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> ScalaRunTime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Serializable
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Statics
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> String
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> StringContext
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Tree
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Unit
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> Warmer
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> _1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> _2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> _hashCode
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> _toString
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> a
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> apply
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> asInstanceOf
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> b
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> benchRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> canBuildFrom
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> common
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> config
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> count
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> d
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweep
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> downsweepSequential
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> end
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> eq
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> exec
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> finalizeHash
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> floatArrayOps
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> floatHash
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> foreach
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> from
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> immutable
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> input
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> intWrapper
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> isInstanceOf
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> java
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> lang
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> left
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> length
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> lineOfSight
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> map
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> materializeClassTag
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> max
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> maxPrevious
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> maxWarmupRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> measure
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> mid
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> minWarmupRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> mix
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> ne
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> org
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> output
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> package
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> parLineOfSight
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> parallel
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> partime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> println
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> reductions
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> refArrayOps
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> right
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> runtime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> s
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> scala
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> scalameter
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> seqtime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> standardConfig
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> startingAngle
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> threshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> tmpAngle
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> toArray
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> toString
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> tree
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> typedProductIterator
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> unchecked
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> until
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> update
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweep
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> upsweepSequential
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> verbose
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> withWarmer
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> zipWithIndex
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> ||
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> *
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> +
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> -
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ->
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> /
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ==
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Array
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Boolean
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Default
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Function2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Int
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Key
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> List
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChange
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ParallelCountChangeRunner
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> String
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> StringContext
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Threshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Unit
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> Warmer
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> _root_
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> allCoins
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> amount
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> apply
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> benchRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> coins
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> combinedThreshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> common
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> config
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> countChange
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> exec
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> fjtime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> head
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> immutable
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> isEmpty
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> left
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> length
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> lengthCompare
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> maxWarmupRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measure
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> measureParallelCountChange
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> minWarmupRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> money
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> moneyThreshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ne
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> org
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> package
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parCountChange
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parResult_=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> parallel
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> println
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> reductions
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> right
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> s
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scala
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> scalameter
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqResult_=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> seqtime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> standardConfig
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> startingMoney
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> tail
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> threshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoins
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> totalCoinsThreshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> unchecked
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> verbose
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> withWarmer
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> ||
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> &&
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> +
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> -
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ->
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> /
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> <init>
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ==
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> >
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> AnyRef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Array
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Boolean
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Char
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Default
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Double
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Int
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Key
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> MeasureBuilder
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancingRunner
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Predef
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Stack
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> String
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> StringContext
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Tuple2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Unit
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> Warmer
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _3
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> _4
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> a1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> a2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> apply
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> arg1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> arg2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> b1
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> b2
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> balance
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> benchRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> charArrayOps
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> chars
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> collection
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> common
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> config
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> equals
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> exec
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> fjtime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> from
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> head
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> idx
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> isEmpty
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> length
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> maxWarmupRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> measure
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> minWarmupRuns
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> mutable
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> ne
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> nonEmpty
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> org
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> package
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parBalance
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parResult_=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> parallel
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> pop
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> println
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> process
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> push
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reduce
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> reductions
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> s
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scala
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> scalameter
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqResult_=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> seqtime
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> stack
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> standardConfig
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> tail
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> threshold
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> toInt
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> top
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> traverse
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> unchecked
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> until
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> verbose
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> withWarmer
+product stamps:
+41 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package$TaskScheduler.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/common/package.class -> lastModified(1519678891000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$4.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$5.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$1.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$downsweep$2.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$$anonfun$lineOfSight$1.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf$.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Leaf.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node$.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Node.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight$Tree.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSight.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$1.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$2.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$$anonfun$3.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner$.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/LineOfSightRunner.class -> lastModified(1519679592000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$3.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$4.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange$.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChange.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$1.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$$anonfun$2.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner$.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelCountChangeRunner.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing$.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancing.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$1.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$$anonfun$2.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner$.class -> lastModified(1519678892000)
+/Users/zeus/Projects/scl-course/Course.3/reductions/target/scala-2.11/classes/reductions/ParallelParenthesesBalancingRunner.class -> lastModified(1519678892000)
+source stamps:
+4 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> hash(e6079c8821049305c0d407ad599cbec9db20ba93)
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> hash(3408040396ce01d52844ed257b341d379c7a6706)
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> hash(e9890f3d27302fff2fe344bb6e3e98332677948c)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1505382647000)
+/Users/zeus/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+/Users/zeus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/zeus/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar -> org.scalameter.Warmer$
+/Users/zeus/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+4 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD5Iuw4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOuOulp0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADOtHZZZ0AAR3YWl0c3EAfgAMRRH71nQABHRhc2tzcQB+AAxXWlWZdAANJGFzSW5zdGFuY2VPZnNxAH4ADO2zU1l0ABREZWZhdWx0VGFza1NjaGVkdWxlcnNxAH4ADP6VKW10AAZlcXVhbHNzcQB+AAxOPK7rdAAMYXNJbnN0YW5jZU9mc3EAfgAMR3fdZXQADHN5bmNocm9uaXplZHNxAH4ADASe78N0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1gofX3QADGZvcmtKb2luUG9vbHNxAH4ADDVHpFR0AAlub3RpZnlBbGxzcQB+AAxy8qMidAAMaXNJbnN0YW5jZU9mc3EAfgAMTzralnQABjxpbml0PnNxAH4ADEIjdRB0AAlzY2hlZHVsZXJzcQB+AAx/Gy7OdAACPT1zcQB+AAw1EAMXdAANVGFza1NjaGVkdWxlcnNxAH4ADBy51Ep0AAVjbG9uZXNxAH4ADMH/LC90AAhzY2hlZHVsZXNxAH4ADMkZjUp0AAh0b1N0cmluZ3NxAH4ADPulSr90AAIhPXNxAH4ADIlgsA10AAhnZXRDbGFzc3NxAH4ADNkzMG10AAJuZXNxAH4ADGJTK1N0AAJlcXNxAH4ADJ/2SB10AAhwYXJhbGxlbHNxAH4ADGDsJSJ0AAIjI3NxAH4ADMhysS90AAhmaW5hbGl6ZXNxAH4ADBNirm10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFh0+uNH3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE0vVXNlcnMvemV1cy9Qcm9qZWN0cy9zY2wtY291cnNlL0NvdXJzZS4zL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBn/6WsJyEulZuhmxRusrTswGywR
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDBgrexAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAEGCCh0AAZub3RpZnlzcQB+AAxwoE7udAAHdW5hcHBseXNxAH4ADAZwAcl0AAdjdXJyaWVkc3EAfgAM+gKVgXQAB3Vwc3dlZXBzcQB+AAxaosT6dAAEd2FpdHNxAH4ADCdNzt50AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJlup/90AA0kYXNJbnN0YW5jZU9mc3EAfgAMWsB1SXQADHByb2R1Y3RBcml0eXNxAH4ADBgGVPt0AAZlcXVhbHNzcQB+AAwZ8pNMdAAMYXNJbnN0YW5jZU9mc3EAfgAMOJfLHnQADHN5bmNocm9uaXplZHNxAH4ADGa4jbV0AARsZWZ0c3EAfgAMmUwDTXQABFRyZWVzcQB+AAwarW3hdAANJGlzSW5zdGFuY2VPZnNxAH4ADMZDP/B0AAROb2Rlc3EAfgAM8QU+bHQAEUxpbmVPZlNpZ2h0UnVubmVyc3EAfgAMKMf3LnQABnR1cGxlZHNxAH4ADM/krnt0ABF1cHN3ZWVwU2VxdWVudGlhbHNxAH4ADFE7t490AAtsaW5lT2ZTaWdodHNxAH4ADAAhY5V0AAhjYW5FcXVhbHNxAH4ADEBmMux0AARtYWluc3EAfgAMyNnj1nQABExlYWZzcQB+AAwHtBdmdAANcHJvZHVjdFByZWZpeHNxAH4ADII2koZ0AAV1bnRpbHNxAH4ADNOxcX50AAlub3RpZnlBbGxzcQB+AAx/d279dAALcmVhZFJlc29sdmVzcQB+AAxwbebPdAAMaXNJbnN0YW5jZU9mc3EAfgAMch+NPHQAE2Rvd25zd2VlcFNlcXVlbnRpYWxzcQB+AAyCql4IdAAJZG93bnN3ZWVwc3EAfgAM/FTjVHQABjxpbml0PnNxAH4ADN3Jcp90AANtYXhzcQB+AAxlF8o7dAAOcGFyTGluZU9mU2lnaHRzcQB+AAyIzTbCdAAFYXBwbHlzcQB+AAzf/LQndAACPT1zcQB+AAzprS6GdAAFY2xvbmVzcQB+AAzGrZ8BdAAEZnJvbXNxAH4ADCKlVyF0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADAhqrdp0AARjb3B5c3EAfgAMeVTZVXQACHRvU3RyaW5nc3EAfgAMv/IC9nQADnN0YW5kYXJkQ29uZmlnc3EAfgAM73h6NnQAAiE9c3EAfgAMIcEeLXQAC0xpbmVPZlNpZ2h0c3EAfgAMrT30f3QACGdldENsYXNzc3EAfgAMbiNoW3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMy82q3HQAAm5lc3EAfgAMRg4b83QAAmVxc3EAfgAM2GC2YnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHzYjux0AAVyaWdodHNxAH4ADCwbJa10AAIjI3NxAH4ADBtvnYZ0AAhmaW5hbGl6ZXNxAH4ADE2fpkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADH7jZQF0AAhoYXNoQ29kZXNxAH4ADBxt4hZ0AAttYXhQcmV2aW91c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0UnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCBTAAJaW5oZXJpdGVkcQB+AIFMAAdwYXJlbnRzcQB+AIF4cQB+AKBzcQB+AJkBdXEAfgB8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCCcQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgA3dXEAfgCRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AlHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ar1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4An3NxAH4ArnQABUFycmF5cQB+ALR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ArnQABlN0cmluZ3NxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALp0AARqYXZhc3EAfgC6dAAEbGFuZ3EAfgC/cHNxAH4AmQF1cQB+AHwAAAAAcHNxAH4AmQF1cQB+ANMAAAACc3EAfgCudAAGT2JqZWN0cQB+ANdzcQB+AK50AANBbnlxAH4AtHBwc3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAHQAFnJlZHVjdGlvbnMuTGluZU9mU2lnaHR1cQB+AJEAAAAAcQB+AJV1cQB+AJcAAAAAc3EAfgCZAXEAfgChcHNxAH4AmQFzcQB+AKNzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgDTAAAAAnNxAH4ArnEAfgDjc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDbc3EAfgC6cQB+AN1xAH4Av3NxAH4ArnEAfgDlc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgC9cQB+AL9wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWHT9lY6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATS9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjMvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU5geciCEEkwXA1AetWZy+ydsgupM=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBPxI7WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAeBUTJ0AAZub3RpZnlzcQB+AAwMgrVgdAAJVGhyZXNob2xkc3EAfgAMVIVnjHQABHdhaXRzcQB+AAxJxwOZdAAZUGFyYWxsZWxDb3VudENoYW5nZVJ1bm5lcnNxAH4ADDRBrBx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMcWpKvHQABmVxdWFsc3NxAH4ADKw+kql0ABFjb21iaW5lZFRocmVzaG9sZHNxAH4ADGO1DJd0AA5tb25leVRocmVzaG9sZHNxAH4ADP0GZ/t0AAxhc0luc3RhbmNlT2ZzcQB+AAxmpChDdAAMc3luY2hyb25pemVkc3EAfgAMOOD1u3QACXBhclJlc3VsdHNxAH4ADBRbLIR0AA0kaXNJbnN0YW5jZU9mc3EAfgAMgt9Um3QAE1BhcmFsbGVsQ291bnRDaGFuZ2VzcQB+AAytqe7pdAAEbWFpbnNxAH4ADDiLVoJ0AAlub3RpZnlBbGxzcQB+AAxp6q02dAAMaXNJbnN0YW5jZU9mc3EAfgAMRAoO/nQAAj09c3EAfgAM8BQO3nQABWNsb25lc3EAfgAMA2JEtXQACHRvU3RyaW5nc3EAfgAM3mNE0HQADnN0YW5kYXJkQ29uZmlnc3EAfgAMVHwG43QAAiE9c3EAfgAMJ1eMRXQACGdldENsYXNzc3EAfgAMGT9OdHQACXNlcVJlc3VsdHNxAH4ADCQXzrt0AAtjb3VudENoYW5nZXNxAH4ADAYGy810AAJuZXNxAH4ADNptos50ABN0b3RhbENvaW5zVGhyZXNob2xkc3EAfgAMWpL6dnQADnBhckNvdW50Q2hhbmdlc3EAfgAM/XeDT3QAAmVxc3EAfgAMpQUbYXQAAiMjc3EAfgAM2o+iu3QACGZpbmFsaXplc3EAfgAMJ69l33QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJHJlZHVjdGlvbnMuUGFyYWxsZWxDb3VudENoYW5nZVJ1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AG54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG0Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdnNxAH4AbQF1cQB+AFAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFZxAH4AX3VxAH4AYAAAAABzcQB+AGIAcQB+ACl1cQB+AGUAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJF1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB+eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBodAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCFWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB1c3EAfgCEdAAFQXJyYXlxAH4AinVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCEdAAGU3RyaW5nc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHQABGphdmFzcQB+AJB0AARsYW5ncQB+AJVwc3EAfgBtAXVxAH4AUAAAAABwc3EAfgBtAXVxAH4AqQAAAAJzcQB+AIR0AAZPYmplY3RxAH4ArXNxAH4AhHQAA0FueXEAfgCKcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAecmVkdWN0aW9ucy5QYXJhbGxlbENvdW50Q2hhbmdldXEAfgBlAAAAAHEAfgBpdXEAfgBrAAAAAHNxAH4AbQBwc3EAfgBycQB+AHdzcQB+AG0Bc3EAfgB5c3EAfgBtAXVxAH4AUAAAAABwc3EAfgBtAXVxAH4AUAAAAABwc3EAfgBtAXVxAH4AqQAAAAJzcQB+AIRxAH4AuXNxAH4AiHNxAH4Ai3VxAH4AjgAAAANzcQB+AJBxAH4AsXNxAH4AkHEAfgCzcQB+AJVzcQB+AIRxAH4Au3NxAH4AiHNxAH4Ai3VxAH4AjgAAAAJzcQB+AJBxAH4Ak3EAfgCVcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFh0+uNH3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE0vVXNlcnMvemV1cy9Qcm9qZWN0cy9zY2wtY291cnNlL0NvdXJzZS4zL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDQIBAOWzgHVKETtJXs0HTecemcG
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCvGG9pAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cInq0JF0AAZub3RpZnlzcQB+AAyPQS1adAAEd2FpdHNxAH4ADHzrfCp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGqSoGHQABmVxdWFsc3NxAH4ADNamsWB0AAdwcm9jZXNzc3EAfgAMjFeu13QADGFzSW5zdGFuY2VPZnNxAH4ADE3e/hN0AAxzeW5jaHJvbml6ZWRzcQB+AAz5Ay9SdAAJcGFyUmVzdWx0c3EAfgAM2VETgnQADSRpc0luc3RhbmNlT2ZzcQB+AAxynffBdAAKcGFyQmFsYW5jZXNxAH4ADO/uaat0AAdiYWxhbmNlc3EAfgAMK9K84XQABG1haW5zcQB+AAxHpqYsdAAJbm90aWZ5QWxsc3EAfgAMEN++h3QADGlzSW5zdGFuY2VPZnNxAH4ADGEEOmN0AAI9PXNxAH4ADIQ6DCl0AAVjbG9uZXNxAH4ADI8Vhb90ACJQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nUnVubmVyc3EAfgAMg5NwwXQACHRvU3RyaW5nc3EAfgAMk6XZcnQADnN0YW5kYXJkQ29uZmlnc3EAfgAMOv2y/XQAAiE9c3EAfgAMb8yAUXQACGdldENsYXNzc3EAfgAMrqNWKHQACXNlcVJlc3VsdHNxAH4ADOzy5XZ0AAJuZXNxAH4ADCLXOFV0AAJlcXNxAH4ADHNg9oN0AAIjI3NxAH4ADIW7ZyN0AAhmaW5hbGl6ZXNxAH4ADK7EEVx0AAhoYXNoQ29kZXNxAH4ADC5w7Ax0ABxQYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5nc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQALXJlZHVjdGlvbnMuUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ1J1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AcHNxAH4AZwF1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAABzcQB+AFwAcQB+ACV1cQB+AF8AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ab3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB4eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBidAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB/WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBvc3EAfgB+dAAFQXJyYXlxAH4AhHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB+dAAGU3RyaW5nc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinQABGphdmFzcQB+AIp0AARsYW5ncQB+AI9wc3EAfgBnAXVxAH4ASgAAAABwc3EAfgBnAXVxAH4AowAAAAJzcQB+AH50AAZPYmplY3RxAH4Ap3NxAH4AfnQAA0FueXEAfgCEcHBzcQB+AExxAH4AWXVxAH4AWgAAAABzcQB+AFwAdAAncmVkdWN0aW9ucy5QYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5ndXEAfgBfAAAAAHEAfgBjdXEAfgBlAAAAAHNxAH4AZwBwc3EAfgBscQB+AHFzcQB+AGcBc3EAfgBzc3EAfgBnAXVxAH4ASgAAAABwc3EAfgBnAXVxAH4ASgAAAABwc3EAfgBnAXVxAH4AowAAAAJzcQB+AH5xAH4As3NxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIpxAH4Aq3NxAH4AinEAfgCtcQB+AI9zcQB+AH5xAH4AtXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIpxAH4AjXEAfgCPcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFh0+uNH3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE0vVXNlcnMvemV1cy9Qcm9qZWN0cy9zY2wtY291cnNlL0NvdXJzZS4zL3JlZHVjdGlvbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOmJDz0nMC//L+NEu24+mDMmd5SM
+external apis:
+0 items
+source infos:
+4 items
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/LineOfSight.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+/Users/zeus/Projects/scl-course/Course.3/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYdPrjR91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjMvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYdPtnfV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjMvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYdPwFe11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjMvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYdPzTkl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjMvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYdP2Vjp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy96ZXVzL1Byb2plY3RzL3NjbC1jb3Vyc2UvQ291cnNlLjMvcmVkdWN0aW9ucy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
