@@ -1,6 +1,12 @@
 .gitignore
 .idea/
 */.idea
-*/project/
-*/target/
-*/scalastyle
+/Course.1/**/target/
+/Course.1/**/project/
+/Course.1/**/scalastyle/
+/Course.2/**/target/
+/Course.2/**/project/
+/Course.2/**/scalastyle/
+/Course.3/**/target/
+/Course.3/**/project/
+/Course.3/**/scalastyle/
