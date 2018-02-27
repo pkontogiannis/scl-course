@@ -3,6 +3,7 @@ package reductions
 import common._
 import org.scalameter._
 
+import scala.annotation.tailrec
 import scala.collection.mutable
 
 object ParallelParenthesesBalancingRunner {
@@ -41,14 +42,20 @@ object ParallelParenthesesBalancing {
 
   /** Returns `true` iff the parentheses in the input `chars` are balanced.
     */
+
   def balance(chars: Array[Char]): Boolean = chars match {
     case x if x.isEmpty => true
     case x if x.head.equals(')') => false
     case _ => process(chars, new mutable.Stack[Char])
   }
 
+  @tailrec
   def process(chars: Array[Char], stack: mutable.Stack[Char]): Boolean = {
-    if (chars.isEmpty) return true
+    if (chars.isEmpty) {
+      if (stack.isEmpty)
+        return true
+      return false
+    }
     chars.head match {
       case '(' => process(chars.tail, stack.push(chars.head))
       case ')' => if (stack.nonEmpty && stack.top.equals('(')) {
@@ -80,10 +87,11 @@ object ParallelParenthesesBalancing {
     def reduce(from: Int, until: Int): (Int, Int) = {
 
       if (until - from > threshold) {
+        val mid = from + (until - from) / 2
         val ((a1, a2), (b1, b2)) =
           parallel(
-            reduce(from, until / 2),
-            reduce(until / 2 + 1, until)
+            reduce(from, mid),
+            reduce(mid, until)
           )
         if (a1 > b2) {
           (a1 - b2 + b1, a2)

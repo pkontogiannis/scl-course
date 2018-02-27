@@ -13,7 +13,7 @@ import ParallelCountChange._
 class ParallelCountChangeSuite extends FunSuite {
 
   test("countChange should return 0 for money < 0") {
-    def check(money: Int, coins: List[Int]) = 
+    def check(money: Int, coins: List[Int]) =
       assert(countChange(money, coins) == 0,
         s"countChang($money, _) should be 0")
 
@@ -34,7 +34,7 @@ class ParallelCountChangeSuite extends FunSuite {
   }
 
   test("countChange should return 0 for money > 0 and coins = List()") {
-    def check(money: Int) = 
+    def check(money: Int) =
       assert(countChange(money, List()) == 0,
         s"countChang($money, List()) should be 0")
 
