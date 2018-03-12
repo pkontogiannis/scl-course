@@ -39,7 +39,7 @@ class SimulationCanvas(val model: SimulationModel) extends JComponent {
     // for debugging purposes, if the number of bodies is small, output their locations
     val g = img.getGraphics.asInstanceOf[Graphics2D]
     g.setColor(Color.GRAY)
-    if (model.bodies.length < 350) for (b <- model.bodies) {
+    if (model.bodies.lengthCompare(350) < 0) for (b <- model.bodies) {
       def round(x: Float) = (x * 100).toInt / 100.0f
       val px = ((b.x - model.screen.minX) / model.screen.width * width).toInt
       val py = ((b.y - model.screen.minY) / model.screen.height * height).toInt

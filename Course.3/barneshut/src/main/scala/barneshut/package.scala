@@ -60,37 +60,29 @@ package object barneshut {
                  ) extends Quad {
     val quadList = List(nw, ne, sw, se)
 
-    val centerX: Float = (ne.centerX - nw.centerX) / 2f
-    //(quadList.map(_.centerX).min + quadList.map(_.centerX).max) / 2f
-    val centerY: Float = (sw.centerY - nw.centerY) / 2f
-    //(quadList.map(_.centerY).min + quadList.map(_.centerY).max) / 2f
-    val size: Float = nw.centerY - ne.centerY
+    val centerX: Float = (quadList.map(_.centerX).min + quadList.map(_.centerX).max) / 2f
+    val centerY: Float = (quadList.map(_.centerY).min + quadList.map(_.centerY).max) / 2f
+    val size: Float = nw.size + ne.size
     val mass: Float = quadList.foldLeft(0f)(_ + _.mass)
-    val massX: Float =
-      if (mass == 0) centerX
-      else quadList.foldLeft(0f) { case (cur, next) => cur + next.mass * next.massX } / mass
-    val massY: Float =
-      if (mass == 0) centerY
-      else quadList.foldLeft(0f) { case (cur, next) => cur + next.mass * next.massY } / mass
+    val massX: Float = mass match {
+      case 0 => centerX
+      case _ => quadList.foldLeft(0f) { case (cur, next) => cur + next.mass * next.massX } / mass
+    }
+    val massY: Float = mass match {
+      case 0 => centerY
+      case _ => quadList.foldLeft(0f) { case (cur, next) => cur + next.mass * next.massY } / mass
+    }
     val total: Int = quadList.foldLeft(0)(_ + _.total)
 
     def insert(b: Body): Fork = {
       val gtCX = b.x > centerX
       val gtCY = b.y > centerY
-      (gtCX, gtCY) {
+      (gtCX, gtCY) match {
         case (true, true) => Fork(nw, ne, sw, se.insert(b))
-        case (true, false) => Fork(nw, ne, sw, se.insert(b))
-        case (false, true) => Fork(nw, ne, sw, se.insert(b))
-        case (false, false) => Fork(nw, ne, sw, se.insert(b))
+        case (true, false) => Fork(nw, ne.insert(b), sw, se)
+        case (false, true) => Fork(nw, ne, sw.insert(b), se)
+        case (false, false) => Fork(nw.insert(b), ne, sw, se)
       }
-      //      if (gtCX && gtCY)
-      //        Fork(nw, ne, sw, se.insert(b))
-      //      else if (gtCX && !gtCY)
-      //        Fork(nw, ne.insert(b), sw, se)
-      //      else if (!gtCX && gtCY)
-      //        Fork(nw, ne, sw.insert(b), se)
-      //      else
-      //        Fork(nw.insert(b), ne, sw, se)
     }
   }
 
@@ -212,14 +204,19 @@ package object barneshut {
     for (i <- matrix.indices) matrix(i) = new ConcBuffer
 
     def +=(b: Body): SectorMatrix = {
-      ???
+      val x = math.min(math.max(boundaries.minX, b.x), boundaries.maxX)
+      val y = math.min(math.max(boundaries.minY, b.y), boundaries.maxY)
+
+      apply(((x - boundaries.minX) / sectorSize).toInt, ((y - boundaries.minY) / sectorSize).toInt) += b
+
       this
     }
 
     def apply(x: Int, y: Int) = matrix(y * sectorPrecision + x)
 
     def combine(that: SectorMatrix): SectorMatrix = {
-      ???
+      this.matrix.indices.foreach(in => this.matrix.update(in, this.matrix(in).combine(that.matrix(in))))
+      this
     }
 
     def toQuad(parallelism: Int): Quad = {
