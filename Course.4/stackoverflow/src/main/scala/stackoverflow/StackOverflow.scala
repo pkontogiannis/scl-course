@@ -78,7 +78,7 @@ class StackOverflow extends Serializable {
   /** Group the questions and answers together */
   def groupedPostings(postings: RDD[Posting]): RDD[(QID, Iterable[(Question, Answer)])] = {
 
-//    postings.cache()
+    //    postings.cache()
     //todo should be in one iteration
     val questionsRDD = postings.filter(p => p.postingType == 1)
       .map(p => (p.id, p))
@@ -187,7 +187,11 @@ class StackOverflow extends Serializable {
 
   /** Main kmeans computation */
   @tailrec final def kmeans(means: Array[(Int, Int)], vectors: RDD[(Int, Int)], iter: Int = 1, debug: Boolean = false): Array[(Int, Int)] = {
-    val newMeans = means.clone() // you need to compute newMeans
+    //    val newMeans = means.clone() // you need to compute newMeans
+
+    val closest = vectors.map(v => (findClosest(v, means), v))
+    val updatedMeans = closest.groupByKey().mapValues(averageVectors).collect.toMap
+    val newMeans = means.indices.map(i => updatedMeans.getOrElse(i, means(i))).toArray
 
     // TODO: Fill in the newMeans array
     val distance = euclideanDistance(means, newMeans)
@@ -300,7 +304,7 @@ class StackOverflow extends Serializable {
       val middle = clusterSize / 2
       val medianScore: Int = {
         if (clusterSize % 2 == 0)
-          sorted(middle - 1) + sorted(middle)
+          (sorted(middle - 1) + sorted(middle)) / 2
         else
           sorted(middle)
       }
